@@ -1,0 +1,8 @@
+﻿  Payment.cpp
+  main.cpp
+  Создание кода...
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(38,55): warning C4474: "sscanf_s" : для строки формата передано слишком много аргументов
+      C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(38,55):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 3
+  
+  ConsoleApplication1.vcxproj -> C:\Users\User\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

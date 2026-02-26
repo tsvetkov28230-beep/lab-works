@@ -1,0 +1,8 @@
+﻿  Account.cpp
+  main.cpp
+C:\Users\User\source\repos\ConsoleApplication2\ConsoleApplication2\main.cpp(47,36): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication2\ConsoleApplication2\main.cpp(54,49): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication2\ConsoleApplication2\main.cpp(55,43): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication2\ConsoleApplication2\main.cpp(66,49): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  ConsoleApplication2.vcxproj -> C:\Users\User\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
